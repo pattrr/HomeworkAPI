@@ -6,3 +6,5 @@ This dependencies hasn't completed yet. This project is on maintenance.
 This project associated with HTMLChannel.
 
 Related: CStudio-2019
+
+Python by IamPatter
