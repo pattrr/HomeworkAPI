@@ -1,10 +1,10 @@
 # HomeworkAPI
-Homework API for Piriyalai School (M.2/1).
+### Homework API for Piriyalai School (M.2/1).
 
-This repositories is for education purposes in Piriyalai School Phrae.
-This dependencies hasn't completed yet. This project is on maintenance.
-This project associated with HTMLChannel.
+* _This repositories is for education purposes in Piriyalai School Phrae._ <br />
+* _This dependencies hasn't completed yet. This project is on maintenance._<br />
+* _This project associated with HTMLChannel._<br />
 
-Related: CStudio-2019
+__Related: CStudio-2019__<br /> 
 
-Python by IamPatter
+> __Python by IamPatter__
